@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'YBLogToolLib_Example' do
+  pod 'YBLogToolLib', :path => '../'
+
+  target 'YBLogToolLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
