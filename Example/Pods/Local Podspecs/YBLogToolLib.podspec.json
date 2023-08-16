@@ -1,0 +1,22 @@
+{
+  "name": "YBLogToolLib",
+  "version": "0.1.0",
+  "summary": "A short description of YBLogToolLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhouyubin/YBLogToolLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouyubin": "zhouyubinwangyi@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhouyubin/YBLogToolLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YBLogToolLib/Classes/**/*"
+}

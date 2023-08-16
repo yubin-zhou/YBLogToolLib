@@ -1,0 +1,6 @@
+framework module YBLogToolLib {
+  umbrella header "YBLogToolLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

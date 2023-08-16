@@ -6,3 +6,9 @@
 //
 
 import Foundation
+public class YBLogToolLib{
+    public static let share = YBLogToolLib();
+    public func log(_ msg:String){
+        print("YBLogToolLib----->_:\(msg)");
+    }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YBLogToolLib (0.1.0)
+
+DEPENDENCIES:
+  - YBLogToolLib (from `../`)
+
+EXTERNAL SOURCES:
+  YBLogToolLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBLogToolLib: 31a7eda3d8ed870410621636b7eaac41ca2c6eec
+
+PODFILE CHECKSUM: b00e031a1b405ff12a15e911697e799b30e38746
+
+COCOAPODS: 1.12.1
