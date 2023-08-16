@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YBLogToolLib'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '这是一个学习用的测试库'
   s.swift_version    = '5.0'
   s.description      = <<-DESC
